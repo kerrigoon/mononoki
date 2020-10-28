@@ -1,55 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seven.dnom" format="1">
-  <advance width="575"/>
-  <outline>
-    <contour>
-      <point x="55" y="360" type="line"/>
-      <point x="41" y="360"/>
-      <point x="31" y="350"/>
-      <point x="31" y="338" type="curve"/>
-      <point x="31" y="259" type="line"/>
-      <point x="31" y="247"/>
-      <point x="41" y="237"/>
-      <point x="55" y="237" type="curve"/>
-      <point x="73" y="237" type="line"/>
-      <point x="87" y="237"/>
-      <point x="97" y="247"/>
-      <point x="97" y="259" type="curve"/>
-      <point x="97" y="302" type="line"/>
-      <point x="202" y="302" type="line"/>
-      <point x="201" y="288"/>
-      <point x="196" y="273"/>
-      <point x="184" y="250" type="curve"/>
-      <point x="139" y="160" type="line"/>
-      <point x="112" y="104"/>
-      <point x="97" y="54"/>
-      <point x="97" y="12" type="curve"/>
-      <point x="97" y="0"/>
-      <point x="107" y="-10"/>
-      <point x="121" y="-10" type="curve"/>
-      <point x="138" y="-10" type="line"/>
-      <point x="153" y="-10"/>
-      <point x="163" y="0"/>
-      <point x="163" y="12" type="curve"/>
-      <point x="163" y="51"/>
-      <point x="174" y="93"/>
-      <point x="197" y="135" type="curve"/>
-      <point x="246" y="228" type="line"/>
-      <point x="263" y="261"/>
-      <point x="270" y="285"/>
-      <point x="270" y="313" type="curve"/>
-      <point x="270" y="338" type="line"/>
-      <point x="270" y="350"/>
-      <point x="260" y="360"/>
-      <point x="246" y="360" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 13:07:01 +0000</string>
-    </dict>
-  </lib>
+<glyph name="seven.dnom" format="2">
+	<advance width="250"/>
+	<outline>
+		<contour>
+			<point x="246" y="360" type="curve"/>
+			<point x="55" y="360" type="line"/>
+			<point x="41.444" y="360"/>
+			<point x="31" y="349.556"/>
+			<point x="31" y="338" type="curve"/>
+			<point x="31" y="259" type="line"/>
+			<point x="31" y="247.444"/>
+			<point x="41.444" y="237"/>
+			<point x="55" y="237" type="curve"/>
+			<point x="73" y="237" type="line"/>
+			<point x="86.556" y="237"/>
+			<point x="97" y="247.444"/>
+			<point x="97" y="259" type="curve"/>
+			<point x="97" y="302" type="line"/>
+			<point x="202.438" y="302" type="line"/>
+			<point x="200.856" y="288.268"/>
+			<point x="195.714" y="273.367"/>
+			<point x="184.267" y="250.472" type="curve"/>
+			<point x="139.267" y="160.472" type="line"/>
+			<point x="111.54" y="104.005"/>
+			<point x="97" y="54.154"/>
+			<point x="97" y="12" type="curve"/>
+			<point x="97" y="0.444"/>
+			<point x="107.444" y="-10"/>
+			<point x="121" y="-10" type="curve"/>
+			<point x="138" y="-10" type="line"/>
+			<point x="152.556" y="-10"/>
+			<point x="163" y="0.444"/>
+			<point x="163" y="12" type="curve"/>
+			<point x="163" y="50.919"/>
+			<point x="174.464" y="92.954"/>
+			<point x="196.635" y="135.367" type="curve"/>
+			<point x="245.617" y="228.339" type="line"/>
+			<point x="263.44" y="260.866"/>
+			<point x="270" y="284.919"/>
+			<point x="270" y="313" type="curve"/>
+			<point x="270" y="338" type="line"/>
+			<point x="270" y="349.556"/>
+			<point x="259.556" y="360"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
 </glyph>

@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="guilsinglleft" format="1">
-  <advance width="575"/>
-  <unicode hex="2039"/>
-  <outline>
-    <contour>
-      <point x="246" y="260" type="line"/>
-      <point x="426" y="440" type="line"/>
-      <point x="441" y="455"/>
-      <point x="441" y="477"/>
-      <point x="424" y="491" type="curve"/>
-      <point x="402" y="511" type="line"/>
-      <point x="387" y="524"/>
-      <point x="367" y="524"/>
-      <point x="353" y="509" type="curve"/>
-      <point x="176" y="333" type="line"/>
-      <point x="157" y="314"/>
-      <point x="138" y="291"/>
-      <point x="138" y="260" type="curve"/>
-      <point x="138" y="229"/>
-      <point x="157" y="207"/>
-      <point x="176" y="188" type="curve"/>
-      <point x="353" y="11" type="line"/>
-      <point x="367" y="-3"/>
-      <point x="387" y="-3"/>
-      <point x="401" y="9" type="curve"/>
-      <point x="425" y="31" type="line"/>
-      <point x="441" y="44"/>
-      <point x="441" y="66"/>
-      <point x="426" y="80" type="curve"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-12-22 13:57:17 +0000</string>
-    </dict>
-  </lib>
+<glyph name="guilsinglleft" format="2">
+	<advance width="575"/>
+	<unicode hex="2039"/>
+	<outline>
+		<contour>
+			<point x="425.757" y="80.371" type="curve"/>
+			<point x="246.142" y="260" type="line"/>
+			<point x="426.071" y="439.929" type="line"/>
+			<point x="441" y="454.858"/>
+			<point x="441" y="476.638"/>
+			<point x="424.459" y="490.634" type="curve"/>
+			<point x="401.562" y="510.546" type="line"/>
+			<point x="386.89" y="524"/>
+			<point x="366.601" y="524"/>
+			<point x="352.628" y="508.757" type="curve"/>
+			<point x="175.949" y="333.091" type="line"/>
+			<point x="156.537" y="313.679"/>
+			<point x="138" y="290.508"/>
+			<point x="138" y="260" type="curve"/>
+			<point x="138" y="229.35"/>
+			<point x="156.626" y="207.231"/>
+			<point x="175.929" y="187.929" type="curve"/>
+			<point x="352.929" y="10.929" type="line"/>
+			<point x="366.858" y="-3"/>
+			<point x="386.62" y="-3"/>
+			<point x="401.402" y="9.318" type="curve"/>
+			<point x="424.743" y="30.615" type="line"/>
+			<point x="441" y="44.362"/>
+			<point x="441" y="66.399"/>
+		</contour>
+	</outline>
 </glyph>
